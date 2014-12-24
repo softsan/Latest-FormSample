@@ -1,0 +1,53 @@
+﻿<Properties GitUserInfo="UsingGIT">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.3215bc9a" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="FormSample\ViewModel\AgentViewModel.cs">
+    <Files>
+      <File FileName="FormSample\App.cs" Line="31" Column="31" />
+      <File FileName="FormSample\Views\RegisterPage.cs" Line="3" Column="3" />
+      <File FileName="FormSample\Views\MainPage.cs" Line="60" Column="60" />
+      <File FileName="FormSample\ViewModel\LoginViewModel.cs" Line="49" Column="49" />
+      <File FileName="FormSample\Views\HomePage.cs" Line="3" Column="3" />
+      <File FileName="FormSample.Android\MainActivity.cs" Line="9" Column="9" />
+      <File FileName="FormSample\Views\LoginPage.cs" Line="3" Column="3" />
+      <File FileName="FormSample\Services\UploadService.cs" Line="21" Column="21" />
+      <File FileName="FormSample\Views\MenuPage.cs" Line="18" Column="18" />
+      <File FileName="FormSample\ViewModel\AgentViewModel.cs" Line="26" Column="26" />
+      <File FileName="FormSample\Services\IProgressService.cs" Line="4" Column="4" />
+      <File FileName="FormSample.Android\Services\ProgressService.cs" Line="23" Column="23" />
+      <File FileName="FormSample.Android\ButtonFixRenderer.cs" Line="16" Column="16" />
+      <File FileName="FormSample.Android\Properties\AndroidManifest.xml" Line="1" Column="1" />
+      <File FileName="FormSample\Helpers\ILoginManager.cs" Line="22" Column="22" />
+      <File FileName="FormSample\Views\ContactUsPage.cs" Line="4" Column="4" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State expanded="True">
+          <Node name="FormSample" expanded="True">
+            <Node name="Helpers" expanded="True" />
+            <Node name="Services" expanded="True" />
+            <Node name="ViewModel" expanded="True">
+              <Node name="AgentViewModel.cs" selected="True" />
+            </Node>
+            <Node name="Views" expanded="True" />
+          </Node>
+          <Node name="FormSample.Droid" expanded="True">
+            <Node name="Properties" expanded="True" />
+            <Node name="Services" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="D:\FormSample-new-master\FormSample\Views\HomePage.cs" line="142" column="11" />
+      <Breakpoint file="D:\FormSample-new-master\FormSample\ViewModel\ContractorViewModel.cs" line="148" column="1" />
+      <Breakpoint file="D:\FormSample-new-master\FormSample\Database\ContractorDatabase.cs" line="64" column="1" />
+      <Breakpoint file="D:\FormSample-new-master\FormSample\Database\ContractorDatabase.cs" line="68" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="FormSample\Services\DataService.cs" line="52" offsetX="431" offsetY="816" expression="cust" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.FormSample.Droid AndroidDeviceId-Debug="TWWSIN6TIJDQU8EY" />
+</Properties>
